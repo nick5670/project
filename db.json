@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "name": "User 1",
+      "role": "admin",
+      "password": "secret"
+    },
+    {
+      "email": "user2@yahoo.com",
+      "name": "User 4",
+      "role": "user",
+      "id": 2,
+      "password": "secret1"
+    },
+    {
+      "email": "user3@huskers.unl.edu",
+      "name": "User 3",
+      "role": "user",
+      "password": ""
+    },
+    {
+      "email": "user4@hotmail.com",
+      "name": "User 4",
+      "role": "user",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Ball room",
+      "isOpen": true,
+      "numPeople": 14,
+      "capacity": 20,
+      "bookedRoomDetails": [
+        "1",
+        "",
+        ""
+      ],
+      "date": "2021-06-08T20:18:03.438Z"
+    },
+    {
+      "id": 2,
+      "name": "Conference room",
+      "isOpen": true,
+      "numPeople": 3,
+      "capacity": 30,
+      "bookedRoomDetails": [],
+      "date": ""
+    },
+    {
+      "id": 3,
+      "name": "Arena",
+      "isOpen": true,
+      "numPeople": 4,
+      "capacity": 250,
+      "bookedRoomDetails": [],
+      "date": ""
+    },
+    {
+      "id": 4,
+      "name": "Lounge",
+      "isOpen": true,
+      "numPeople": 0,
+      "capacity": 5,
+      "bookedRoomDetails": [],
+      "date": ""
+    }
+  ]
+}
