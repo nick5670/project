@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: "http://localhost:3000"
+  apiUrl: "https://github.com/nick5670/project/blob/[main|master]/db.json"
 };
